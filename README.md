@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there 👋, I'm Ayesha!
 
-<!--
-**Ayesha1209s/Ayesha1209s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Fullstack Developer** & passionate **Cybersecurity Specialist**  
+Always learning, building, and securing the web!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🚀 Fullstack developer | Cybersecurity enthusiast
+- 🔒 Deeply interested in protecting data and building robust web applications
+- 🛠️ Currently upgrading my skills in modern web frameworks and security practices
+
+---
+
+### 💡 Top Skills & Technologies
+
+- **Languages:** Java, Python, HTML, CSS, JavaScript, SQL
+- **Frameworks/Libraries:** React
+- **Other:** Cybersecurity fundamentals, modern web standards
+
+---
+
+### 🌟 Featured Project
+
+#### MediCue
+> _"Your intelligent health companion"_  
+Suggests possible causes based on your symptoms, calculates BMI, provides personalized food plans, and allows you to download your results as a PDF!
+
+[More about MediCue](#) <!-- You can add your project link here -->
+
+---
+
+### 📈 Currently...
+
+- 🌐 Building fullstack apps and learning advanced cybersecurity concepts
+- 💡 Exploring new tech and best practices to become a stronger developer
+
+---
+
+### 📫 Connect with Me
+
+<!-- Example: [LinkedIn](#) | [Twitter](#) | [Portfolio](#) -->
+_Add your links here!_
+
+---
+
+### ✨ Motivation
+
+> "Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston S. Churchill
+
+---
+
+Thank you for visiting my profile!  
+Let's connect, collaborate, and create something amazing together 🚀
