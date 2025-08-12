@@ -40,8 +40,10 @@ Suggests possible causes based on your symptoms, calculates BMI, provides person
 
 ### 📫 Connect with Me
 
-<!-- Example: [LinkedIn](#) | [Twitter](#) | [Portfolio](#) -->
-_Add your links here!_
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/ummatul-ayesha-44813b2b5/)])
+
 
 ---
 
