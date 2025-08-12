@@ -40,9 +40,12 @@ Suggests possible causes based on your symptoms, calculates BMI, provides person
 
 ### 📫 Connect with Me
 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/ummatul-ayesha-44813b2b5/)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/ummatul-ayesha-44813b2b5/)])
+
+
+
 
 
 ---
