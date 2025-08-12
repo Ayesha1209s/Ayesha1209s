@@ -50,9 +50,9 @@ Suggests possible causes based on your symptoms, calculates BMI, provides person
 
 ---
 
-### ✨ Motivation
 
-> "Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston S. Churchill
+
+### > "Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston S. Churchill
 
 ---
 
