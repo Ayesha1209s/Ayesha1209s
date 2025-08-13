@@ -21,16 +21,6 @@ Always learning, building, and securing the web!
 
 ---
 
-### 🌟 Featured Project
-
-#### MediCue
-> _"Your intelligent health companion"_  
-Suggests possible causes based on your symptoms, calculates BMI, provides personalized food plans, and allows you to download your results as a PDF!
-
-[More about MediCue](#) <!-- You can add your project link here -->
-
----
-
 ### 📈 Currently...
 
 - 🌐 Building fullstack apps and learning advanced cybersecurity concepts
